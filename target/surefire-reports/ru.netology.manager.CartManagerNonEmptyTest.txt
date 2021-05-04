@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.netology.manager.CartManagerNonEmptyTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.02 s <<< FAILURE! - in ru.netology.manager.CartManagerNonEmptyTest
+shouldNotRemoveIfNotExists  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at ru.netology.manager.CartManagerNonEmptyTest.shouldNotRemoveIfNotExists(CartManagerNonEmptyTest.java:41)
+
